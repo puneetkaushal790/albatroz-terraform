@@ -1,0 +1,10 @@
+.terraform.lock.hcl
+.terraform/
+azurecreds.conf
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
+terraform/certificate.crt
+terraform/certificate.csr
+terraform/certificate.pem
+terraform/private.key
